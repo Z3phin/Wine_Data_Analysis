@@ -1,5 +1,6 @@
-* Wine Data Analysis Project
-** Description
+# Wine Data Analysis Project
+  
+## Description
 
 This project was part of the computer science course at Swansea University, specifically the Data Science module. 
 
